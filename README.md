@@ -6,15 +6,15 @@
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abubakrhemed&label=Profile%20views&color=0e75b6&style=flat" alt="abubakrhemed" /> </p>
-
+<div style="text-align:center;">
 - 🔭 I’m currently working on **A react project**
 
 - 🌱 I’m currently learning **React Native,Python**
 
 - 📫 How to reach me **abubakr.hemed@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
