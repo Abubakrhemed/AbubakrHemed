@@ -1,4 +1,6 @@
-<img src="https://img.freepik.com/premium-photo/html-system-website-concept_23-2150376770.jpg" alt="coding">
+<div style="text-align:center;">
+  <img src="https://img.freepik.com/premium-photo/html-system-website-concept_23-2150376770.jpg" alt="coding" style="width:100%; max-width:1000px;">
+</div>
 <h1 align="center">Hi there! 👋 I'm Abubakr Hemed</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
