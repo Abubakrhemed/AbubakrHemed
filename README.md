@@ -9,9 +9,13 @@
 
 <p align="center">
 - 🔭 I’m currently working on **A react project**
+</p>
 
+<p align="center">
 - 🌱 I’m currently learning **React Native,Python**
+</p>
 
+<p align="center">
 - 📫 How to reach me **abubakr.hemed@gmail.com**
 </p>
 
