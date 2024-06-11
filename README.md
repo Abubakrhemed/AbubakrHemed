@@ -8,15 +8,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abubakrhemed&label=Profile%20views&color=0e75b6&style=flat" alt="abubakrhemed" /> </p>
 
 <p align="center">
-- 🔭 I’m currently working on **A react project**
+- 🔭 I’m currently working on A react project
 </p>
 
 <p align="center">
-- 🌱 I’m currently learning **React Native,Python**
+- 🌱 I’m currently learning React Native,Python
 </p>
 
 <p align="center">
-- 📫 How to reach me **abubakr.hemed@gmail.com**
+- 📫 How to reach me abubakr.hemed@gmail.com
 </p>
 
 <h3 align="center">Connect with me:</h3>
