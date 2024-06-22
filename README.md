@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-- 🌱 I’m currently learning React Native,Python
+- 🌱 I’m currently learning JavaScript,Node
 </p>
 
 <p align="center">
