@@ -19,10 +19,11 @@
   - 📫 How to reach me: abubakr.hemed@gmail.com
 </p>
 
-<h3 align="center">Most Used Language:</h3>
+<h3 align="center">GitHub Profile Stats:</h3>
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/abubakrhemed/repository-name" alt="Most Used Language" style="max-width:100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakrhemed&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width:100%;">
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrhemed&" alt="abubakrhemed" />
 </p>
