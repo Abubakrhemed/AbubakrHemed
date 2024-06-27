@@ -19,13 +19,10 @@
   - 📫 How to reach me: abubakr.hemed@gmail.com
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Most Used Language:</h3>
 <p align="center">
-  <!-- Replace with dynamically fetched GitHub language icons -->
-  <!-- Example: Replace {language} with actual language name (e.g., javascript) -->
-  <img src="https://img.shields.io/github/languages/top/abubakrhemed/{language}" alt="{language}" style="max-width:100%;">
+  <img src="https://img.shields.io/github/languages/top/abubakrhemed/repository-name" alt="Most Used Language" style="max-width:100%;">
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrhemed&" alt="abubakrhemed" />
 </p>
