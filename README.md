@@ -1,5 +1,7 @@
-<div style="text-align:center;">
-  <img src="https://img.freepik.com/premium-photo/html-system-website-concept_23-2150376770.jpg" alt="coding" style="width:100% height:40%">
+<div style="text-align: center;">
+  <img src="https://img.freepik.com/premium-photo/html-system-website-concept_23-2150376770.jpg" 
+       alt="coding" 
+       style="width: 60%; height: auto;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Abubakr Hemed</h1>
