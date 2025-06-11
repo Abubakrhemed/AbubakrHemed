@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://img.freepik.com/premium-photo/html-system-website-concept_23-2150376770.jpg" 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Ffull-stack-developer-flat-illustration-suitable-web-banners-infographics-book-social-media-other-graphic-assets_8948740.htm&psig=AOvVaw1J7A_v8BdvNPLkl35gfGiz&ust=1749689023128000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCzrdSR6I0DFQAAAAAdAAAAABAe" 
        alt="coding" 
        style="display: block; margin: 0 auto; width: 100%; height: 30%;">
 </div>
