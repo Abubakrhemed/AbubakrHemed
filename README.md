@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img src="https://img.freepik.com/premium-photo/html-system-website-concept_23-2150376770.jpg" 
-       alt="coding" 
+<div style="display: flex; justify-content: center;">
+  <img src="https://img.freepik.com/premium-photo/html-system-website-concept_23-2150376770.jpg"
+       alt="coding"
        style="width: 60%; height: auto;">
 </div>
 
