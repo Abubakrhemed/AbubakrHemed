@@ -1,6 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Ffull-stack-developer-flat-illustration-suitable-web-banners-infographics-book-social-media-other-graphic-assets_8948740.htm&psig=AOvVaw1J7A_v8BdvNPLkl35gfGiz&ust=1749689023128000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCzrdSR6I0DFQAAAAAdAAAAABAe" 
-       alt="coding" 
+  <img src="https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233
        style="display: block; margin: 0 auto; width: 100%; height: 30%;">
 </div>
 
