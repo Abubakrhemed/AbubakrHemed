@@ -1,27 +1,9 @@
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/html-system-website-concept_23-2150376770.jpg" 
-       alt="coding" 
-       style="display: block; margin: 0 auto; width: 40%; height: auto;">
-</p>
-
-
-<h1 align="center">Hi 👋, I'm Abubakr Hemed</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
-
+<h1 align="center">Welcome To My Github, I'm Abubakr Hemed</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abubakrhemed&label=Profile%20views&color=0e75b6&style=flat" alt="abubakrhemed" /> </p>
 
 <p align="center">
-  - 🔭 I’m currently working on a React project
+  - 🔭 I’m currently working on a Full Stack project
 </p>
-
-<p align="center">
-  - 🌱 I’m currently learning JavaScript and React
-</p>
-
-<p align="center">
-  - 📫 How to reach me: abubakr.hemed@gmail.com
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrhemed&" alt="abubakrhemed" />
